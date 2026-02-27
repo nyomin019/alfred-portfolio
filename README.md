@@ -1,6 +1,20 @@
 # Alfred — Personal AI Assistant
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/nyomin019/alfred-portfolio)](https://github.com/nyomin019/alfred-portfolio/commits/main)
+[![License](https://img.shields.io/github/license/nyomin019/alfred-portfolio)](https://github.com/nyomin019/alfred-portfolio/blob/main/LICENSE)
+
 A self-hosted AI assistant running on Mac Studio M2 Max, built with [OpenClaw](https://github.com/nicknds/OpenClaw). This project demonstrates full-stack development skills, API integrations, and autonomous agent design.
+
+---
+
+## 🚀 Latest Updates (Feb 2026)
+
+- ✅ Multi-model AI routing (MiniMax, Gemini, Claude, local qwen)
+- ✅ Options trading research & alerts
+- ✅ Voice message transcription (mlx-whisper)
+- ✅ Notion integration for tasks, events, job applications
+- ✅ Daily crypto price alerts & buy zones
+- ✅ RMIT Career Connect event reminders
 
 ---
 
